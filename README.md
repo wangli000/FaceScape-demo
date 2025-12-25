@@ -1,1 +1,18 @@
-# FaceScape-demo
+# FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction
+This is the repository that contains source code for the [FaceScape website](https://nju-3dv.github.io/projects/FaceScape/).
+
+
+If you find FaceScape useful for your work please cite:
+```
+@inproceedings{he2024emotalk3d,
+  title={EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head},
+  author={He, Qianyun and Ji, Xinya and Gong, Yicheng and Lu, Yuanxun and Diao, Zhengyu and Huang, Linjia and Yao, Yao and Zhu, Siyu and Ma, Zhan and Xu, Songchen and Wu, Xiaofei and Zhang, Zixiao and Cao, Xun and Zhu, Hao},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2024}      
+}
+```
+
+# Website License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+The template is borrowed from [Nerfies](https://nerfies.github.io/). Thanks to [Nerfies](https://nerfies.github.io/).
